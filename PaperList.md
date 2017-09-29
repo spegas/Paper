@@ -12,3 +12,10 @@
 * [github](https://github.com/jianboyang/CNNHAR)
 * 인용 : 67회 (구글스칼라 기준, 2017_09_30)
 -------------------------------------------------
+
+-------------------------------------------------
+###  Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition
+* [요약](http://ieeexplore.ieee.org/abstract/document/6288864/)
+* [전문](http://www.cs.toronto.edu/~asamir/papers/icassp12_cnn.pdf)
+* 인용 : 67회 (구글스칼라 기준, 2017_09_30)
+-------------------------------------------------
